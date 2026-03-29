@@ -113,7 +113,7 @@ I was surprised to learn how easily people fall victim to UPI fraud due to lack 
 
 I will always verify payment requests carefully and never enter my UPI PIN unless I am making a payment. I will also avoid clicking on unknown links and be more cautious during online transactions.
 
-📎 *See: task-5-cybercrime for details.*
+📎 *See: task-5-cybercrime/ for details.*
 
 ---
 
